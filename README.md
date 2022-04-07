@@ -24,3 +24,8 @@ How to run the program:
 * unlink a system function is fundeletes the link named by pathname and decrements the link count for the file itself.
 
 
+An example of a run:
+
+![image](https://user-images.githubusercontent.com/93525881/162221690-02443e24-da18-45e4-a603-2d00870bc8ed.png)
+
+![image](https://user-images.githubusercontent.com/93525881/162221864-5cd62a34-a03a-4cbe-89d9-2ce61d0bfb30.png)
