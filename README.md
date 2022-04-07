@@ -25,7 +25,5 @@ How to run the program:
 
 
 An example of a run:
+![image](https://user-images.githubusercontent.com/93525881/162222054-3ec77d08-224a-4c8a-ac02-0d7259fab345.png)
 
-![image](https://user-images.githubusercontent.com/93525881/162221690-02443e24-da18-45e4-a603-2d00870bc8ed.png)
-
-![image](https://user-images.githubusercontent.com/93525881/162221864-5cd62a34-a03a-4cbe-89d9-2ce61d0bfb30.png)
