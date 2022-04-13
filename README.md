@@ -1,7 +1,7 @@
 # OS_Ex1
 
 How to run the program:
- Write make all command, run ./tcp_server , ./ex1
+ Write make all command, run ./tcp_server , ./main
 1. To exit the program enter EXIT
 2. To get the current address enter getcwd.
 3. To print to the screen enter ECHO and the required
